@@ -36,8 +36,12 @@ h2 {
         line-height: 75px;
 }
 
+#menu {
+    float: right;  
+}
+
 #menu li {
-        float: right;
+        float: left;
         margin-right: 30px;
         list-style-type: none;
 }
